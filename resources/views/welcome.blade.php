@@ -33,7 +33,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-5">
-                    <img src="../images/band.jpg" class="img-fluid logo">
+                    <img src="../images/Main-White-Transparent-bg.png" class="img-fluid logo">
                 </div>
             </div>
             <div class="row">
