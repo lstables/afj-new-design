@@ -10475,7 +10475,7 @@ body {
   background: #010101;
   color: #fff;
   font-family: "Open Sans", sans-serif !important;
-  background: url("/images/AFJ-Cover-for-Website.png") no-repeat center 50px fixed;
+  background: url("/images/band.jpg") no-repeat center 50px fixed;
   background-size: cover;
   font-weight: normal !important;
 }
@@ -10783,7 +10783,7 @@ footer {
 }
 
 .andrea {
-  background-image: url("/images/Andrea-bio-image.png");
+  background-image: url("/images/adam.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
@@ -10801,7 +10801,7 @@ footer {
 }
 
 .ian {
-  background-image: url("/images/Ian.png");
+  background-image: url("/images/ben.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
@@ -10819,7 +10819,7 @@ footer {
 }
 
 .jon {
-  background-image: url("/images/Jon.png");
+  background-image: url("/images/scully.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   text-align: left;
@@ -10960,4 +10960,3 @@ footer {
   right: 20px;
   background: url("/images/arrow-right.png");
 }
-
