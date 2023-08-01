@@ -8,7 +8,7 @@
         <meta name="description" content="UK Number 1 tribute act to Foreigner &amp; Journey. We take things much beyond a mere ‘tribute act’ we turn our show into a living, breathing and powerful show">
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        
+
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet">
         <!-- Scripts -->
         <script src="{{ asset('js/app.js') }}"></script>
@@ -28,17 +28,17 @@
     <body>
 
         <div id="app">
-            
+
             @include('layouts.nav')
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mb-5">
-                    <img src="../images/Main-White-Transparent-bg.png" class="img-fluid logo">
+                    <img src="../images/band.jpg" class="img-fluid logo">
                 </div>
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-8 mb-4 mt-5">
-                   
+
                     <div class="card text-white bg-dark mb-3">
                         <div class="card-body dates-mob">
                             <h4 class="text-center mt-2">UPCOMING TOUR DATES</h4>
@@ -65,7 +65,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>    
+                    </div>
                 </div>
 
                 <div class="col-xs-12 col-sm-12 col-md-4 mb-4 mt-5">
@@ -91,7 +91,7 @@
                                 <small class="gold f18 reg">National Tribute Music Awards</small>
                                 </p>
                            </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -107,18 +107,18 @@
                             <div class="col-md-9 text-center mx-auto" style="width: 90%">
                                <p>
                                    <strong>
-                                   Legendary bands Foreigner and Journey are giants of the AOR (Adult Orientated Rock) and Classic Rock genres, attracting huge audiences as live acts since forming in the 1970’s. The two bands have achieved massive commercial and critical success and both sold in excess of 80 million albums, with their supreme musical quality ensuring that they’ve never been victims of trends or passing fashions, and even their earliest hits are still being played on radio shows worldwide every day. 
+                                   Legendary bands Foreigner and Journey are giants of the AOR (Adult Orientated Rock) and Classic Rock genres, attracting huge audiences as live acts since forming in the 1970’s. The two bands have achieved massive commercial and critical success and both sold in excess of 80 million albums, with their supreme musical quality ensuring that they’ve never been victims of trends or passing fashions, and even their earliest hits are still being played on radio shows worldwide every day.
                                    </strong>
                                </p>
                                <p>
-                                    Sadly for those in the UK, their shows over here have been few and far between, and most fans of their music have not experienced the thrill of hearing it played live. 
+                                    Sadly for those in the UK, their shows over here have been few and far between, and most fans of their music have not experienced the thrill of hearing it played live.
                                     Thankfully, however, the next best thing is here in the shape of the award-winning band A FOREIGNERS JOURNEY.
-                                   
+
                                </p>
                                <p>
                                    They have toured throughout the UK and Europe for the last 10 years, headlined a number of festivals and played to packed theatres and venues, safely establishing themselves as one of the most respected and known tribute shows around
                                </p>
-                               
+
                             </div>
                        </div>
                    </div>
@@ -170,9 +170,9 @@
                         <div class="card text-white bg-dark mb-3">
                             <div class="card-body andrea">
                                 <div class="text-left w-75">
-                                    <h5 class="gold">Andrea Ojano</h5>
+                                    <h5 class="gold">Adam</h5>
                                     <h6 class="text-white">Lead Vocals</h6><br />
-                                    Born and raised in Sardinia, Italy, Andrea begun his musical journey at the age of 10 by joining the local choir. He enjoyed fronting the UK’s best Bon Jovi tribute band (Bon Giovi) for over 6 years, touring all over the world. Now he is loving fronting AFJ as well as working on other projects including his solo album.
+                                    Adam has been honing his craft for the past 15 years, and during this time, he has fronted several original bands and begun to build a reputation as a formidable Front man. Over the years, his incredible vocal range and control have earned him the nickname 'Pipes' and watching him perform you can really see why.
                                 </div>
                             </div>
                         </div>
@@ -181,9 +181,9 @@
                         <div class="card text-white bg-dark mb-3">
                             <div class="card-body ricky img-fluid">
                                  <div class="text-left w-75">
-                                    <h5 class="gold">Ricky Middleton</h5>
+                                    <h5 class="gold">Ricky</h5>
                                     <h6 class="text-white">Guitars</h6><br />
-                                    Ricky started his musical education and journey at the tender age of 3. With no less than 4 immediate family members being musicians too, it was inevitable that music was in his blood. Fast forward a few years and Ricky eventually landed the perfect gig - A Foreigners Journey. 
+                                    Ricky started his musical education and journey at the tender age of 3. With no less than 4 immediate family members being musicians too, it was inevitable that music was in his blood. Fast forward a few years and Ricky eventually landed the perfect gig - A Foreigners Journey.
                                 </div>
                             </div>
                         </div>
@@ -192,10 +192,10 @@
                         <div class="card text-white bg-dark mb-3">
                             <div class="card-body paul">
                                  <div class="text-left w-75">
-                                    <h5 class="gold">Paul Flanaghan</h5>
+                                    <h5 class="gold">Paul</h5>
                                     <h6 class="text-white">Bass Guitar</h6><br />
                                     Paul started his musical journey at the age of 14 learning to play the guitar initially, his first live performance was with a band called ‘Arnhem’ in the mid 80’s.
-                                    In 2006 Paul was invited by his friend and mentor Jeff Pilson of Foreigner to see their show in Las Vegas which ended up being the catalyst in putting A Foreigners Journey together here in the UK. 
+                                    In 2006 Paul was invited by his friend and mentor Jeff Pilson of Foreigner to see their show in Las Vegas which ended up being the catalyst in putting A Foreigners Journey together here in the UK.
                                 </div>
                             </div>
                         </div>
@@ -204,9 +204,12 @@
                         <div class="card text-white bg-dark mb-3">
                             <div class="card-body jon">
                                 <div class="text-left w-75">
-                                    <h5 class="gold">Jon Pease</h5>
+                                    <h5 class="gold">Lee</h5>
                                     <h6 class="text-white">Keyboards</h6><br />
-                                    Jon joined AFJ in 2015 and settled in right away playing the music of two of his favourite artists. He's appeared with members of Thunder, Tyketto and Bad Company to name but a few and has toured with Danny Vaughn. Always finding lots to laugh about Jon is definitely the smiliest member of AFJ!
+                                    Raised on the tunes of The Beatles, Lee soon became obsessed with music.
+                                    At the age of 11 Lee discovered keyboards and songwriting and is 100% self taught.
+                                    He's played and sang lead vocals in multiple bands from Jazz Orchestras to Prog/Rock bands in an array of venues over the years as well as some studio session work.
+                                    Lee relocated to yorkshire where he eventually discovered AFJ....
                                 </div>
                             </div>
                         </div>
@@ -215,14 +218,14 @@
                         <div class="card text-white bg-dark mb-3">
                             <div class="card-body ian">
                                 <div class="text-left w-75">
-                                    <h5 class="gold">Ian Ferris</h5>
+                                    <h5 class="gold">Ben </h5>
                                     <h6 class="text-white">Drums</h6><br />
-                                    Ian has been playing drums since the age of 9.  By 14 years old he had started gigging all over the country and at 16 was establishing himself as a freelance musician.  Fast forward to co-founding AFJ with Paul, and Ian’s love of playing live, with big kits, has not diminished.  Catch Ian’s cheesy grin at a venue near you.
+                                    Ben is the engine room for AFJ, and provides the power and groove to underpin all the classic hits. Ben changes through the gears with passion and tenacity, and is a commanding presence behind his signature double-kick kit.
                                 </div>
                             </div>
                         </div>
                     </div>
-                   
+
                 </div>
             </div><!-- end band div -->
 
@@ -324,13 +327,13 @@
                                 <input type="text" name="subect" class="form-control" value="{{ old('subject') }}" autocomplete="off" placeholder="Subject"  required>
                             </div>
                         </div>
-                                                                                      
+
                         <div class="form-group">
                             <div class="col-lg-12">
                                 <textarea name="comments" class="form-control" rows="4" placeholder="Your message" required>{{ old('comments') }}</textarea>
                             </div>
                         </div>
-                        
+
                         <div class="form-group">
                             <div class="col-lg-12">
                                 <div class="g-recaptcha" data-sitekey="6LeqXMEUAAAAAM2HyJ_VGgw1VzbbIHTPBiuhZTd_"></div>
@@ -339,14 +342,14 @@
 
                         <button class="btn btn-gold ml-3 btn-lg">SEND</button>
 
-                                                            
+
                         </form>
                     </div>
                 </div>
             </div><!-- end contact -->
 
             @include('frontend.footer')
-   
+
         </div>
         <script src="js/sweetalert.js"></script>
         @include('Alerts::show')
@@ -389,22 +392,22 @@
             $(document).on('click', 'a[href^="#"]', function(e) {
                 // target element id
                 var id = $(this).attr('href');
-                
+
                 // target element
                 var $id = $(id);
                 if ($id.length === 0) {
                     return;
                 }
-                
+
                 // prevent standard hash navigation (avoid blinking in IE)
                 e.preventDefault();
-                
+
                 // top position relative to the document
                 var pos = $id.offset().top;
-                
+
                 // animated top scrolling
                 $('body, html').animate({scrollTop: pos}, 2000);
-         
+
             });
         </script>
         <script>
