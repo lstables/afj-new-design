@@ -14,7 +14,7 @@
 
                     <div class="panel-body">
                         @if(count($galleries) && ! empty($galleries))
-                            <table class="table table-striped">
+                            <table class="bootstrap-table bootstrap-table-striped">
                                 <thead>
                                 <tr>
                                     <th>Location</th>

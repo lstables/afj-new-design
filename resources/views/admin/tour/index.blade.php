@@ -14,7 +14,7 @@
 
                     <div class="panel-body">
                     @if(count($tour_dates))
-                        <table class="table table-striped">
+                        <table class="bootstrap-table bootstrap-table-striped">
                             <thead>
                                 <tr>
                                     <th>Venue</th>
