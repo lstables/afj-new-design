@@ -6724,7 +6724,7 @@ button.bg-dark:focus {
 }
 
 .d-table {
-    @apply table;
+    @apply bootstrap-table;
 }
 
 .d-table-row {
@@ -6759,7 +6759,7 @@ button.bg-dark:focus {
         @apply block;
     }
     .d-sm-table {
-        @apply table;
+        @apply bootstrap-table;
     }
     .d-sm-table-row {
         @apply table-row;
@@ -6791,7 +6791,7 @@ button.bg-dark:focus {
         @apply block;
     }
     .d-md-table {
-        @apply table;
+        @apply bootstrap-table;
     }
     .d-md-table-row {
         @apply table-row;
@@ -6823,7 +6823,7 @@ button.bg-dark:focus {
         @apply block;
     }
     .d-lg-table {
-        @apply table;
+        @apply bootstrap-table;
     }
     .d-lg-table-row {
         @apply table-row;
@@ -6855,7 +6855,7 @@ button.bg-dark:focus {
         @apply block;
     }
     .d-xl-table {
-        @apply table;
+        @apply bootstrap-table;
     }
     .d-xl-table-row {
         @apply table-row;
@@ -6887,7 +6887,7 @@ button.bg-dark:focus {
         @apply block;
     }
     .d-print-table {
-        @apply table;
+        @apply bootstrap-table;
     }
     .d-print-table-row {
         @apply table-row;

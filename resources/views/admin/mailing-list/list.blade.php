@@ -12,7 +12,7 @@
 
                     <div class="panel-body">
                     @if(count($lists))
-                        <table class="table table-striped">
+                        <table class="bootstrap-table bootstrap-table-striped">
                             <thead>
                                 <tr>
                                     <th>Name</th>

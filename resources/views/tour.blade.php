@@ -7,8 +7,8 @@
    <div class="row mt-2">
        <div class="col">
            {{--<h4 class="text-center">{{ $row->date->format('F') }} {{ $row->date->format('Y') }}</h4>--}}
-           <div class="table-responsive mb-3">
-               <table class="table">
+           <div class="bootstrap-table-responsive mb-3">
+               <table class="bootstrap-table">
                    {{--<thead class="thead-light">--}}
                    {{--<tr>--}}
                        {{--<th>Date</th>--}}

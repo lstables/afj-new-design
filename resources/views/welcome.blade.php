@@ -42,8 +42,8 @@
                     <div class="card text-white bg-dark mb-3">
                         <div class="card-body dates-mob">
                             <h4 class="text-center mt-2">UPCOMING TOUR DATES</h4>
-                            <div class="table-responsive mt-5 mb-4">
-                            <table class="table table-gold">
+                            <div class="bootstrap-table-responsive mt-5 mb-4">
+                            <table class="bootstrap-table table-gold">
                                 <tbody>
                                 @foreach ($dates->take(6) as $d)
                                     <tr>
@@ -131,7 +131,7 @@
                     <div class="card text-white bg-dark mb-3">
                         <div class="card-body">
                             <h4 class="text-center mt-2">{{ date('Y') }} TOUR DATES</h4>
-                            <div class="table-responsive mt-5 mb-4">
+                            <div class="bootstrap-table-responsive mt-5 mb-4">
                                 <table class="table-gold fixed_header">
                                     <thead>
                                         <tr>

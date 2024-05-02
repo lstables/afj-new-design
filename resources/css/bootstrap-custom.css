@@ -357,97 +357,97 @@ h6,
     }
 }
 
-.table .table {
+.table .bootstrap-table {
     @apply bg-blue-50;
     /*~ background-color: #f8fafc; */
 }
 
-.table-primary,
-.table-primary > th,
-.table-primary > td {
+.bootstrap-table-primary,
+.bootstrap-table-primary > th,
+.bootstrap-table-primary > td {
     @apply bg-blue-200;
     /*~ background-color: #c6e0f5; */
 }
 
-.table-hover .table-primary:hover {
+.table-hover .bootstrap-table-primary:hover {
     @apply bg-blue-200;
     /*~ background-color: #b0d4f1; */
 }
 
-.table-hover .table-primary:hover > td,
-.table-hover .table-primary:hover > th {
+.table-hover .bootstrap-table-primary:hover > td,
+.table-hover .bootstrap-table-primary:hover > th {
     @apply bg-blue-200;
     /*~ background-color: #b0d4f1; */
 }
 
-.table-success,
-.table-success > th,
-.table-success > td {
+.bootstrap-table-success,
+.bootstrap-table-success > th,
+.bootstrap-table-success > td {
     @apply bg-green-200;
     /*~ background-color: #c7eed8; */
 }
 
-.table-hover .table-success:hover {
+.table-hover .bootstrap-table-success:hover {
     @apply bg-green-200;
     /*~ background-color: #b3e8ca; */
 }
 
-.table-hover .table-success:hover > td,
-.table-hover .table-success:hover > th {
+.table-hover .bootstrap-table-success:hover > td,
+.table-hover .bootstrap-table-success:hover > th {
     @apply bg-green-200;
     /*~ background-color: #b3e8ca; */
 }
 
-.table-info,
-.table-info > th,
-.table-info > td {
+.bootstrap-table-info,
+.bootstrap-table-info > th,
+.bootstrap-table-info > td {
     @apply bg-blue-100;
     /*~ background-color: #d6e9f9; */
 }
 
-.table-hover .table-info:hover {
+.table-hover .bootstrap-table-info:hover {
     @apply bg-blue-200;
     /*~ background-color: #c0ddf6; */
 }
 
-.table-hover .table-info:hover > td,
-.table-hover .table-info:hover > th {
+.table-hover .bootstrap-table-info:hover > td,
+.table-hover .bootstrap-table-info:hover > th {
     @apply bg-blue-200;
     /*~ background-color: #c0ddf6; */
 }
 
-.table-warning,
-.table-warning > th,
-.table-warning > td {
+.bootstrap-table-warning,
+.bootstrap-table-warning > th,
+.bootstrap-table-warning > td {
     @apply bg-yellow-100;
     /*~ background-color: #fffacc; */
 }
 
-.table-hover .table-warning:hover {
+.table-hover .bootstrap-table-warning:hover {
     @apply bg-yellow-100;
     /*~ background-color: #fff8b3; */
 }
 
-.table-hover .table-warning:hover > td,
-.table-hover .table-warning:hover > th {
+.table-hover .bootstrap-table-warning:hover > td,
+.table-hover .bootstrap-table-warning:hover > th {
     @apply bg-yellow-100;
     /*~ background-color: #fff8b3; */
 }
 
-.table-danger,
-.table-danger > th,
-.table-danger > td {
+.bootstrap-table-danger,
+.bootstrap-table-danger > th,
+.bootstrap-table-danger > td {
     @apply bg-red-200;
     /*~ background-color: #f7c6c5; */
 }
 
-.table-hover .table-danger:hover {
+.table-hover .bootstrap-table-danger:hover {
     @apply bg-red-300;
     /*~ background-color: #f4b0af; */
 }
 
-.table-hover .table-danger:hover > td,
-.table-hover .table-danger:hover > th {
+.table-hover .bootstrap-table-danger:hover > td,
+.table-hover .bootstrap-table-danger:hover > th {
     @apply bg-red-300;
     /*~ background-color: #f4b0af; */
 }
@@ -457,7 +457,7 @@ h6,
     /*~ color: #f8fafc; */
 }
 
-.table-dark {
+.bootstrap-table-dark {
     @apply text-blue-50;
     /*~ color: #f8fafc; */
 }
@@ -1993,7 +1993,7 @@ a.text-danger:focus {
         @apply border-gray-200;
         /*~ border-color: #dee2e6; */
     }
-    .table-dark {
+    .bootstrap-table-dark {
         color: inherit;
     }
     .table-dark th,
@@ -2091,7 +2091,7 @@ a.text-danger:focus {
     background-image: linear-gradient(to bottom,black,transparent);
 }
 
-.table > tbody > tr:first-child > td {
+.bootstrap-table > tbody > tr:first-child > td {
     @apply border-none;
 }
 
